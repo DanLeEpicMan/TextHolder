@@ -1,6 +1,6 @@
 # Introduction
 
-This is an old project I found. It's essentially a GUI that can read, edit, and import text files (. Originally I wanted to use CSV files, but I found it easier to use TXT files. I made this with the intention of using it to help keep me organized; like allowing me to keep separate to-do piles.
+This is an old project I found. It's essentially a GUI that can read, edit, and import text files (originally I wanted to use CSV files, but I found it easier to use TXT files). I made this with the intention of using it to help keep me organized; like allowing me to keep separate to-do piles.
 
 I made this via WPF, and as such, .net (dotnet) is required. [Here is the install for Windows](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Since I compiled this as an exe, this can't run on non-Windows operating systems, but I included all the project files so you can compile it yourself.
 
