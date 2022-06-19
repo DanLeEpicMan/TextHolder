@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Text Holder", "Text Holder.csproj", "{1FFD36BD-0387-4E17-B862-F67C1466A3F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A13F9DAC-C743-4F5D-9B3D-35DDF2E6CF31}"
+	ProjectSection(SolutionItems) = preProject
+		magnifying_glass.png = magnifying_glass.png
+		Images\refresh_icon.png = Images\refresh_icon.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TextData", "TextData", "{9B4E726C-160B-4F60-AAF9-5AA9BC8D46D2}"
+	ProjectSection(SolutionItems) = preProject
+		default.txt = default.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFD36BD-0387-4E17-B862-F67C1466A3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFD36BD-0387-4E17-B862-F67C1466A3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFD36BD-0387-4E17-B862-F67C1466A3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFD36BD-0387-4E17-B862-F67C1466A3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B4E726C-160B-4F60-AAF9-5AA9BC8D46D2} = {A13F9DAC-C743-4F5D-9B3D-35DDF2E6CF31}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F3737E-6FFE-4F5F-9BE9-742871048FB2}
+	EndGlobalSection
+EndGlobal
